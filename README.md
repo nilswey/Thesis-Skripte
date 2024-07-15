@@ -14,7 +14,7 @@ Zusammenfassung der Methodik:
 Skripte: 
 Hausklassifikation statistische Merkmale: Berechnung 15 statistischer und geometrischer Merkmale anhand derer der RF in 7 semantische Häuserklassen einteilt
 
-(Klassifizierung erfolgte nicht in Python
+(Klassifizierung erfolgte nicht in Python)
 
 Bevölkerungsschätzung: Koeffizienten Berechnung aus Zensus-Daten für jede Hausklasse, nutzt homogen klassifizierte Zellen, mit bekannter Bevölkerung, um Bevölkerung pro Kubikmeter zu berechnen, 
                        anschließend werden die Koeeffizienten den klassifizierten Häusern zugewiesen, Interpolation der Hausbevölkerung, Aggregierung in 100m Raster
